@@ -20,7 +20,7 @@ My name is Rony de Lucca. I'm a software engineer apprentice and a fond of (almo
 - ⚡ Fun fact: ...
 
 <h1 align="center">
-    <img alt="HiThere!" title="#Hi There" src="https://github.githubassets.com/images/mona-whisper.gif" width="250px" />
+    <img alt="HiThere!" title="#Hi There" src="https://github.githubassets.com/images/mona-whisper.gif" width="50px" />
 </h1>
 
 ## Get in touch
