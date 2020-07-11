@@ -26,5 +26,5 @@ My name is Rony de Lucca. I'm a software engineer apprentice and a fond of (almo
 - LinkedIn: https://www.linkedin.com/in/ronylucca/
 
 <h3 align="center">
-    <img alt="HiThere!" title="#Hi There" src="https://github.githubassets.com/images/mona-whisper.gif" width="50px" />
+    <img alt="HiThere!" title="#Hi There" src="https://github.githubassets.com/images/mona-whisper.gif" width="30px" />
 </h3>
