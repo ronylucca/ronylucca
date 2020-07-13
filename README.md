@@ -1,9 +1,9 @@
 # Hi there :wave:
 
 My name is Rony de Lucca. I'm a software engineer apprentice and a fond of (almost) every IT related fields
-
-## About me
 <!--
+## About me
+
 - :briefcase: I'm currently working at [DOCAPOSTE](https://www.docaposte.com/)
 - :school: Also a student of [TELECOM Nancy](http://telecomnancy.univ-lorraine.fr/en)
 - :mega: I'm an occasionnal speaker and / or volunteer on events on tech
