@@ -22,8 +22,9 @@ My name is Rony de Lucca. I'm a software engineer apprentice and a fond of (almo
 
 ## Get in touch
 
-- DEV: https://dev.to/ronylucca/
-- LinkedIn: https://www.linkedin.com/in/ronylucca/
+<a href="https://www.linkedin.com/in/ronylucca/">
+    <img alt="Made by ronylucca" src="https://img.shields.io/badge/made%20by-ronylucca-%2304D361">
+</a>
 
 <h3 align="center">
     <img alt="HiThere!" title="#Hi There" src="https://github.githubassets.com/images/mona-whisper.gif" width="30px" />
