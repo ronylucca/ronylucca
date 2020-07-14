@@ -20,7 +20,7 @@ My name is Rony de Lucca. I'm a software engineer apprentice and a fond of (almo
 -->
 
 
-## Get in touch :wave: [ Get in touch!](https://www.linkedin.com/in/ronylucca/)
+## 📫[ Get in touch!](https://www.linkedin.com/in/ronylucca/)
 
 
 <h3 align="center">
