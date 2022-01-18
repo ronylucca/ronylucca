@@ -1,6 +1,7 @@
 ## Hi there :wave: I'm Rony
 
-I'm a blockchain software engineer working on AI trading strategies using Bots. Deep focused on NFT / solidity skills as Defi web3 and a fond of (almost) Web Development related technologies. 
+I'm a blockchain software engineer working on AI trading strategies using Bots. Deep focused on NFT / Solidity skills as Defi web3.  
+A fond of (almost) Web Development related technologies. 
 
 [![linkedin](https://img.shields.io/badge/-@ronylucca-0c77c2?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/ronylucca/)](https://www.linkedin.com/in/ronylucca/)
 [![Gmail](https://img.shields.io/badge/-ronylucca-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:ronylucca@gmail.com)
