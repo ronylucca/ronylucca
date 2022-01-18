@@ -26,7 +26,6 @@ A fond of (almost) Web Development related technologies.
   
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-
 <img alt="Nest.js" src="https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestJS&logoColor=white" />
 <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
@@ -36,9 +35,6 @@ A fond of (almost) Web Development related technologies.
 <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-BAC9F9?style=for-the-badge&logo=solidity&logoColor=363636" />
 <img alt="Ethereum" src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-.Net-6D429C?style=for-the-badge&logo=dotnet&logoColor=white" />
-
- 
-
 <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 
 </p>
@@ -51,7 +47,8 @@ A fond of (almost) Web Development related technologies.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronylucca&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ronylucca.ronylucca)
+  
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ronylucca.ronylucca&left_color=gray&right_color=blue)
 
 <!--
 ## About me
