@@ -17,7 +17,7 @@ A fond of (almost) Web Development related technologies.
 - 🧐 Always looking forward to improve any skill
 - 👯 Contact me for any help or side projects development
 - 💬 Feel free to ask me anything about blockchain technologies and automated trades 
-- 😄 Curiosities: Love games, Harmonica, Eletric guitar, Piano and Anime アニメ 
+- 😄 Curiosities: Love to travel, photografy, harmonica, eletric guitar, piano, games and Anime アニメ 
 
 ## 🔭Tools & Technologies
 
