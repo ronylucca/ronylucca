@@ -39,11 +39,11 @@ A fond of (almost) Web Development related technologies.
 </p>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronylucca&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronylucca&show_icons=true&theme=bear&include_all_commits=true&count_private=true&hide_border=true"/>
 </div>
 <div>
   <a href="https://github.com/ronylucca">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronylucca&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronylucca&layout=compact&langs_count=7&theme=bear&hide_border=true"/>
 </div>
 
   
