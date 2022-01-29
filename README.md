@@ -16,8 +16,7 @@ A fond of (almost) Web Development related technologies.
 - 🔭 I’m currently working on independent projects related to blockchain, Defi and NFT GameFi marketplaces
 - 🧐 Always looking forward to improve any skill
 - 👯 Contact me for any help or side projects development
-- 💬 Feel free to ask me anything about blockchain technologies and automated trades 
-- 😄 Curiosities: Love to travel, photography, harmonica, eletric guitar, piano, games and Anime アニメ 
+- 💬 Feel free to ask me anything about blockchain technologies and automated trades  
 
 ## 🔭Tools & Technologies
 
