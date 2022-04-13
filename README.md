@@ -13,10 +13,10 @@ A fond of (almost) Web Development related technologies.
 
 ## ⚡️ About me
 
-- 🔭 I’m currently working on independent projects related to blockchain, Defi and NFT GameFi marketplaces
-- 🧐 Always looking forward to improve any skill
+- 🔭 I’m currently working @ Tropix as backend node and solidity engineer. Always interested in projects related to blockchain, Defi, games and NFT marketplaces
+- 🧐 Looking forward to improve any skill
 - 👯 Contact me for any help or side projects development
-- 💬 Feel free to ask me anything about blockchain technologies and automated trades  
+- 💬 Feel free to pull a flip coin about blockchain technologies and automated trades  
 
 ## 🔭Tools & Technologies
 
