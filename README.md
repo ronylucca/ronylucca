@@ -13,7 +13,7 @@ A fond of (almost) Web Development related technologies.
 
 ## ⚡️ About me
 
-- 🔭 I’m currently working @ Tropix as backend node and solidity engineer. Always interested in projects related to blockchain, Defi, games and NFT marketplaces
+- 🔭 I’m currently working on projects as backend node and solidity engineer. Always interested in projects related to blockchain, Defi, games and NFT marketplaces
 - 👷‍♂️ Working to improve solidity and rust smart contract development techniques
 - 👯 Contact me for any help or side projects development
 - 💬 Feel free to flip coin about blockchain technologies and automated trades  
