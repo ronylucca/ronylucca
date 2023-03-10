@@ -22,7 +22,7 @@ A fond of (almost) Web Development related technologies.
 
 <p align="left">
 
-<img alt="Golang" src="https://img.shields.io/badge/-Go-F0DB4F?style=for-the-badge&logo=go&logoColor=black" />  
+<img alt="Golang" src="https://img.shields.io/badge/-Go-007D9C?style=for-the-badge&logo=go&logoColor=white" />  
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img alt="Nest.js" src="https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestJS&logoColor=white" />
