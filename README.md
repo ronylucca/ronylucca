@@ -46,6 +46,8 @@ A fond of (almost) Web Development related technologies.
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronylucca&layout=compact&langs_count=7&theme=bear&hide_border=true"/>
 </div> -->
 
+[![Rony's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronylucca&include_all_commits=true&theme=aura)](https://github.com/ronylucca/github-readme-stats)
+
   
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ronylucca.ronylucca&left_color=gray&right_color=blue)
 
